@@ -2,7 +2,7 @@
 
 PvPstatsAnnouncer.Enabled=1
 PvPstatsAnnouncer.Limit=5
-PvPstatsAnnouncer.BracketId=1
+PvPstatsAnnouncer.BracketId=8
 PvPstatsAnnouncer.RepeatMinutes=1
 PvPstatsAnnouncer.StartText="Top PvP players of the month:"
 PvPstatsAnnouncer.EndText="Check all PvP statistics at https://pvpstats.amanthul.nat.cu/"
