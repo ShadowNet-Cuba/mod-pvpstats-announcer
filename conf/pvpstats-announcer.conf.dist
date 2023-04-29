@@ -3,6 +3,6 @@
 PvPstatsAnnouncer.Enabled=1
 PvPstatsAnnouncer.Limit=5
 PvPstatsAnnouncer.BracketId=8
-PvPstatsAnnouncer.RepeatMinutes=1
-PvPstatsAnnouncer.StartText="Top PvP players of the month:"
-PvPstatsAnnouncer.EndText="Check all PvP statistics at https://pvpstats.amanthul.nat.cu/"
+PvPstatsAnnouncer.RepeatMinutes=30
+PvPstatsAnnouncer.StartText="Top de los 5 jugadores PvP con mas BG ganados este Mes:"
+PvPstatsAnnouncer.EndText="Todas las estadisticas PvP en https://pvpstats.amanthul.nat.cu/"
